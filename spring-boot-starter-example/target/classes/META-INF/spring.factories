@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+red.shiwen.startersample.ExampleAutoConfigure
